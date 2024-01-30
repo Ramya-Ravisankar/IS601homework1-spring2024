@@ -1,2 +1,4 @@
-*.swo
+*.swp
+# ignore all logs
+*.log
 
