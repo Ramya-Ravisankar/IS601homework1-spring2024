@@ -1,4 +1,4 @@
-*.swp
 # ignore all logs
 *.log
-
+# Ignore deployment files
+[Mm]odel/[Dd]eployment
